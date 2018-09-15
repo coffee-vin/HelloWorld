@@ -1,15 +1,18 @@
-{
-"itemName":"item-1"
-"rating":"4/5"
-},
 
 {
-"itemName":"item-2"
-"rating":"5/5"
-},
-
-{
-"itemName":"item-3"
-"rating":"3/5"
+  "itemList": 
+    [
+    {
+      "itemName": "item-1",
+      "rating": "4/5"
+    },
+    {
+      "itemName": "item-2",
+      "rating": "5/5"
+    },
+    {
+      "itemName": "item-3",
+      "rating": "3/5"
+    }
+  ]
 }
-
